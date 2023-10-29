@@ -1,4 +1,5 @@
 cd client
 npm run build
 cd ..
-uvicorn main:app --reload
+#Just for testing
+uvicorn main:app --reload 
